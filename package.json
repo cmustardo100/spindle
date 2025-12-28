@@ -5,7 +5,7 @@
   "type": "module",
   "main": "./dist/index.js",
   "repository": {
-    "url": "git+https://github.com/Mangaka-bot/ListrX.git"
+    "url": "git+https://github.com/Mangaka-bot/spindle.git"
   },
   "types": "./dist/index.d.ts",
   "exports": {
