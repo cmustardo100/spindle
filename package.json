@@ -14,7 +14,9 @@
       "import": "./dist/index.js"
     }
   },
-  "files": [ "dist" ],
+  "files": [
+    "dist"
+  ],
   "keywords": [
     "cli",
     "console",
