@@ -13,7 +13,7 @@ A lightweight, singleton-based CLI multi-spinner library for Node.js. Run multip
 
 </div>
 
-<div align="center">
+---
 
 ## ✨ Features
 
